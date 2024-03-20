@@ -1,5 +1,5 @@
-# Customer Analysis - Using Various DL Models
-This Deep learning project uses various models to analyse the customer behaviour towards different products, classify them into various clusters and check whether they will accept the campaigns held by the company.
+# Customer Analysis - Using Various Models
+This project uses various ML models to analyse the customer behaviour towards different products, classify them into various clusters and check whether they will accept the campaigns held by the company.
 
 ## Installation
 To use this project, you'll need Python and the following libraries:
